@@ -1,0 +1,1 @@
+# redirect-equipment-picker
